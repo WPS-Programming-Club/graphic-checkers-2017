@@ -8,3 +8,6 @@ After we do so, we plan to use tkinter to generate a game board and simulate the
 After that, we plan on building an AI for human vs computer mode.
 
 Then we have a game we can showcase for next year! Along with some experiecne with tkinter, Git, and collaborative coding.
+-------------------------------------------------------------------------------------------------------------------------------
+
+Please spend some time familarizing yourself with the conventions/commands/etiquettes of Git. 
